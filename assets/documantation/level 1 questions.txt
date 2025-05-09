@@ -1,0 +1,8 @@
+sual 1:
+	5 + 5 cavablar(55 ve 10)
+sual 2:
+	2 + 2 cavablar(5 ve 4)
+sual 3:
+	4 - 1 cacablar(3 ve 14)
+sual 4:
+	20 - 1 cavablar(21 ve 19)

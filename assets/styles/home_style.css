@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #00a2e8;
+}
+.logo-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.logo-div img {
+  width: 100px;
+  height: 100px;
+}
+.title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.title-div h1 {
+  font-size: 40px;
+  color: #fff;
+  font-family: "Pixelify Sans", sans-serif;
+}
+.character-div {
+  display: flex;
+  padding-left: 50px;
+  display: inline-block;
+}
+.character-div img {
+  width: 200px;
+  height: 300px;
+  display: relative;
+  z-index: 0;
+  cursor: pointer;
+}
+.character-div img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+.character-div img:hover + p {
+  display: block;
+  position: absolute;
+  z-index: 1;
+}
+.character-div p {
+  font-size: 20px;
+  display: none;
+  color: #fff;
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
+  background-color: #09719e;
+  border: 1px dashed #fff;
+}
+.button-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.play-button {
+  background-color: #02b620;
+  color: #0170a0;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  width: 400px;
+  height: 100px;
+  font-family: "Pixelify Sans", sans-serif;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.play-button img {
+  width: 50px;
+  height: 50px;
+  transition: background-color 0.3s, color 0.3s;
+  background-color: #02b620;
+}
+.play-button:hover {
+  background-color: #00e84d;
+  color: #fff;
+  margin-left: 20px;
+}
+.play-button:hover img {
+    background-color: #00e84d;
+}
+.play-button:active {
+  background-color: #007bb5;
+  color: #fff;
+}
+.play-button:active img {
+  background-color: #007bb5;
+  rotate: 90deg;
+}
+.rulls-button {
+  background-color: #fa2323;
+  color: #0170a0;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  width: 400px;
+  height: 100px;
+  font-family: "Pixelify Sans", sans-serif;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+.rulls-button img {
+  width: 50px;
+  height: 50px;
+  transition: background-color 0.3s, color 0.3s;
+  background-color: #fa2323;
+}
+.rulls-button:hover {
+  background-color: #ff0303;
+  color: #fff;
+  margin-left: 20px;
+}
+.rulls-button:hover img {
+    background-color: #ff0303;
+}
+.rulls-button:active {
+  background-color: #007bb5;
+  color: #fff;
+}
+.rulls-button:active img {
+  background-color: #007bb5;
+}

@@ -1,0 +1,12 @@
+sual 1:
+	2 * 2 cavablar(22 ve 4)
+sual 2:
+	6 * 7 cavablar(76 ve 42)
+sual 3:
+	14 * 11 cavablar(154 ve 144)
+sual 4:
+	10 / 5 cavablar(5 ve 2)
+sual 5:
+	1000 / 8 cavablar(125 ve 250)
+sual 6:
+	64 / 8 cavablar(8 ve 6)

@@ -1,0 +1,24 @@
+sual 1:			    √
+	sin30° = ? cavablar(0,5 ve √3/2)
+sual 2:			     	     √
+	sin45° = ? cavablar(√3/2 ve √2/2)
+sual 3:			   √
+	tg90° = ? cavablar(∅ ve 4√2)
+sual 4:			     √
+	ctg60° = ? cavablar(√3/2 ve 4√2)
+sual 5:				   √
+	|x| < 5, x = ? cavablar(x∈(-5, 5) ve x∈[-5, 5])
+sual 6:				    √
+	|x| > 5, x = ? cavablar(x∈(-∞, -5), x∈(5, +∞) ve x∈(-∞, -5))
+sual 7:						√
+	x > 4, x = ? cavablar(x∈(+∞, 4) ve x∈(4, +∞))
+sual 8:				   √
+	x ≤ -5, x = ? cavablar(x∈(-∞, -5] ve x∈[-∞, 5])
+sual 9:						     √
+	x / y = 2 / 4, 2x + 2y = 36, y = ? cavablar(12 ve 6)
+sual 10:					 √
+	x / y = 25 / 5, x + y = 30, x = ? cavab(25 ve 5)
+sual 11:			   √
+	30%x = 60, x = ? cavablar(200 ve 150)
+sual 12:			 √
+	x + 20%x = 240 cavablar(200 ve 120)

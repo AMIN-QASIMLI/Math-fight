@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  background-color: bisque;
+  font-family: "Pixelify Sans", sans-serif;
+  font-weight: 400;
+  font-size: x-large;
+}
+body {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.back-button-div a button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.back-button-div a button:hover {
+    background-color: #419245;
+    margin-left: 20px;
+}
+.back-button-div a button:active {
+    background-color: #3e8e41;
+}

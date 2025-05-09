@@ -1,0 +1,18 @@
+sual 1:
+	katet1 = 3, katet2 = 4, hipotenus = ? cavablar(6 ve 5)
+sual 2:
+	hipotenus = 100, katet1 = 8, katet2 = ? cavablar(6 ve 5)
+sual 3:
+	hipotenus = 8, katet1 = 4, katet2 = ? cavablar(4√3 ve 4√2)
+sual 4:
+	9x² - 24x² + 16x² = ? cavablar((3x -4x)² ve (3x - 4)²)
+sual 5:
+	(50 - 32)/(5-4)(5+4) cavablar(2 ve 18)
+sual 6:
+	a³ - b³ cavablar((a - b)(a² - b² + ab) ve (a - b)(a² + b² + ab))
+sual 7:
+	3x² - 2y = 7, 4x² + 2y = 60, x = ? cavablar(3 ve 2)
+sual 8:
+	x² - 4x - 5 = 0, x₁ = ?, x₂ = ? cavablar(x₁ = 5, x₂ = -1 ve x₁ = -5, x₂ = 1)
+sual 9:
+	5x + 6x = 132, x = ? cavablar(12 ve 13)

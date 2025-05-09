@@ -1,0 +1,26 @@
+5 canavar olacaq.
+herdefe duzgun cavab verende biri random display none olacaq.
+butun mekanlar ayri html da saxlanacaq.
+5 sevh cavab verme haqqimiz olacaq.
+dushmenin cani sayina bagli olacaq.
+her defe sehv cavab verende 5 canimizin biri azalacaq.
+10 % ehtimal ile duz cavablar canimizi artiracaq.
+butun canavarlar olende lvl deyishecek.
+4 lvl olacaq.
+son lvl boss fight olacaq.
+butun canavarlar burada olacaq.
+ilk level 1, ikinci lvl 2, ucuncu lvl 4, dorduncu lvl 5 canavar olacaq.
+level suallari:
+	1-ci lvl : 
+		toplama cixma(her sulala 20san.)
+	2-ci lvl:
+		vurma bolme(her suala 15 san.)
+	3-cu lvl:
+		pifaqor, muxteser vurma dusturlari ve tenlikler(her sulala 10san.)
+	4-cu lvl:
+		triqonometrik nisbetler, berabersizlikler, nisbet ve faiz(her suala 5san.)
+axirda scor yash ortalamasi kimi gorsenecek
+1 lvl : sizin 5 yashiniz var?!
+2 lvl : deyesen 7 yashdan BALACASINIZ?
+3 lvl : hec olmasa 15 yashin var?!
+4 lvl : tebrikler! deyesen 15 yashdan boyuksunuz!

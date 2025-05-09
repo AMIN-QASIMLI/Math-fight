@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="../assets/imgs/math-fight-favicon.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="../assets/styles/fight_arena_style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+    <title>MATH FIGHT</title>
+  </head>
+  <body>
+    <a href="./home.html" style="text-decoration: none">
+      <button class="back-button"><- BACK</button></a
+    >
+    <div class="helth-bar">
+      <div class="minus-health-bar"><div class="health-bar-player"></div></div>
+      <img src="../assets/imgs/vs-img.png" alt="" />
+      <div class="minus-health-bar"><div class="health-bar-enemies"></div></div>
+    </div>
+    <div class="black-board-container">
+      <div class="level-div">
+        <h1 id="level"></h1>
+      </div>
+      <div class="fight-img-div">
+        <img src="../assets/imgs/fight-img.png" alt="" class="fight-img" />
+      </div>
+      <div class="question-div">
+        <h1 id="question"></h1>
+      </div>
+      <div class="time-div">
+        <h1 class="time"></h1>
+      </div>
+    </div>
+    <div class="answers-container">
+      <button class="answer-button1"></button>
+      <button class="answer-button2"></button>
+    </div>
+    <div class="characters-div">
+      <div class="player-div">
+        <img src="../assets/imgs/kamil.png" alt="" class="player-img" />
+        <p>Kamil</p>
+      </div>
+      <div class="enemies-div">
+        <p>Enemies</p>
+      </div>
+    </div>
+  </body>
+  <script src="../scripts/index.js"></script>
+</html>
