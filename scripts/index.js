@@ -95,7 +95,7 @@ var level_3_questions = [
     },
     {
         number: 2,
-        question: "hipotenus = 100, katet1 = 8, katet2 = ?",
+        question: "hipotenus = 10, katet1 = 8, katet2 = ?",
         answer1: "6",
         answer2: "5",
         correct_answer: "6",
@@ -116,7 +116,7 @@ var level_3_questions = [
     },
     {
         number: 5,
-        question: "(50 - 32)/(5-4)(5+4) = ?",
+        question: "(50 - 32)/((5-4)(5+4)) = ?",
         answer1: "2",
         answer2: "18",
         correct_answer: "2",
