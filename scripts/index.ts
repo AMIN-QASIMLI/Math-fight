@@ -87,7 +87,7 @@ const level_2_questions: Question[] = [
     question: "1000 ÷ 8 = ?",
     answer1: "125",
     answer2: "250",
-    correct_answer: "3",
+    correct_answer: "125",
   },
   {
     number: 6,
